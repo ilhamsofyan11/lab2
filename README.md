@@ -1,4 +1,4 @@
-Langkah Langkah Instalasi Python
+Langkah Langkah Instalasi Python  
 Buka Chrome lalu download python di situs python.org
 Contoh Perintah Dasar Python
 ```py
