@@ -1,9 +1,10 @@
 Langkah Langkah Instalasi Python
 Buka Chrome lalu download python di situs python.org
-Contoh Perintah Dasar Python                         
+Contoh Perintah Dasar Python
+```py
 nama = input ("siapa nama kamu :")
 alamat = input("dimana alamatmu:")
-
+```
 #  Latihan 1
 
 • Menjalankan Python Console  
